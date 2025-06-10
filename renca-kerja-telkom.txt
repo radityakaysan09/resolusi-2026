@@ -7,3 +7,4 @@ TELKOM BUMN
 - Konsisten 1 bidang
 - Banyakin bootcamp
 - Seminar
+- Banyakin networking
