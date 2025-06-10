@@ -3,3 +3,4 @@ TELKOM BUMN
 - Bagusin porto
 - Interview
 - Belajar coding
+- Cloud computing
