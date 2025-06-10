@@ -1,6 +1,7 @@
 TELKOM BUMN
 
 - Bagusin porto
-- Interview
 - Belajar coding
+Vue
 - Cloud computing
+React
