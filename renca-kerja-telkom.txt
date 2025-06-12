@@ -2,6 +2,7 @@ TELKOM BUMN
 
 - Bagusin porto
 - Belajar coding
-Vue
-- Cloud computing
+Angular
 React
+- Cloud computing
+AWS
